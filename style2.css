@@ -1,0 +1,22 @@
+* {
+    background-color: dodgerblue;
+}
+
+h1 {
+    filter: grayscale(0.5);
+    image-rendering: pixelated;
+    padding: 32px;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+img {
+    padding-left: 10px;
+    padding-right: 200px;
+}
+
+h4 {
+    color: black;
+}

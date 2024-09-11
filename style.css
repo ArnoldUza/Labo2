@@ -1,0 +1,31 @@
+* {
+    background-color: pink;
+}
+
+h1 {
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    filter: grayscale(0.5);
+    background-image: url("/images/banniere.jpg");
+    background-position: center;
+    background-size: cover;
+    image-rendering: pixelated;
+    padding: 32px;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+h4 {
+    padding-left: 32px;
+    color: red;
+}
+
+img {
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+p.source-des-photos {
+    color: gray;
+}
